@@ -13,7 +13,7 @@ $graphics.Clear([System.Drawing.Color]::Red)
 # メッセージを描画
 $font = New-Object System.Drawing.Font "Arial", 80, ([System.Drawing.FontStyle]::Bold)
 $white = [System.Drawing.Brushes]::White
-$mainText = "Your file has been encrypted!!"
+$mainText = "Ransomware!!"
 $payText = "Pay 5 Bit Coin To xxxxxxxx"
 
 # 文字サイズ計算と配置
